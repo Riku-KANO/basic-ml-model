@@ -8,5 +8,6 @@
 - Bayesian Optimization with Tree-structured Parzen Estimator(TPE)
 - Simulated Annealing(焼きなまし法)
 - Genetic Algorithm (遺伝的アルゴリズム)
-- Cuckoo Search (カッコー探索)
+- Cuckoo Search (カッコウ探索)
 - Beam Search (ビームサーチ)
+- Optimization using Quantum computing(量子コンピュータによる最適化)
